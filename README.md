@@ -22,4 +22,5 @@ The dataset comprises a database with the following tables:
 * address
 * city
 * country
+
 For a full breakdown of what these tables contain, please reference the ERD.
