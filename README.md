@@ -23,6 +23,4 @@ The dataset comprises a database with the following tables:
 * city
 * country
 
-For a full breakdown of what these tables contain, please reference the ERD.
-
 You can find all visualisations on [Tableau](https://public.tableau.com/app/profile/arturo.lituma/viz/RockbusterStats_16739652911650/GenresBarGraph).
